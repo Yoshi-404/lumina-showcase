@@ -1,6 +1,7 @@
 # 🌟 Lumina — Gamified Study App (Tech Showcase)
 
 > 💡 **Live Demo:** [Play with Lumina here!](https://luminastudy-seven.vercel.app)
+> 🇧🇷 [Leia em Português](./README-pt.md)
 
 Lumina is a gamified study application designed to make learning addictive. This repository serves as a **Tech Showcase** highlighting the engineering and logic behind one of its core features: **The GitHub-Style Consistency Heatmap**.
 
